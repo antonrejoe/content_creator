@@ -76,7 +76,7 @@ Welcome to the **Transform Story into Scenes** project! This application allows 
 
 ## Demo
 
-![App Demo](https://via.placeholder.com/800x400?text=Demo+Image+Placeholder)
+![UI interface](https://github.com/user-attachments/assets/a4a9394d-6de0-481c-bdd1-e9dddc51a730)
 
 ## Future Enhancements
 
@@ -102,5 +102,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Progress 
 - Still some critical features have to be added, which are in progress
+- Please give me your suggestions and recommendations for this project it would be really helpfull
 
 Feel free to reach out if you have any questions or feedback!
